@@ -51,7 +51,7 @@ A responsive portfolio site to highlight projects and achievements.
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** https://github.com/shaheer-ali
+- **GitHub:** https://github.com/shaheer-ali-sb
 - **LinkedIn:** https://linkedin.com/in/shaheer-ali
 - **Email:** your.email@example.com
 
