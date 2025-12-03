@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Shaheer Ali
+
 🎓 **MCA Final Year** | 🤖 **AI & Full-Stack Developer** | 🚀 **Building Impactful Solutions**
 
 I specialize in **AI-powered applications** and **full-stack development**, currently developing a Wild Animal Detection System using YOLOv8. Passionate about building practical, real-world solutions and continuously improving my engineering skills.
@@ -46,9 +48,9 @@ I specialize in **AI-powered applications** and **full-stack development**, curr
 ### 🐘 **Wild Animal Detection System** | *Ongoing*
 **AI-powered real-time detection system with automated alerts**
 
-Model: YOLOv8 | Dataset: Custom Annotated | Deployment: Raspberry Pi + Cloud
+> Model: YOLOv8 | Dataset: Custom Annotated | Deployment: Raspberry Pi + Cloud
 
-python
+```python
 # Real-time detection pipeline
 detections = model.predict(video_stream)
 send_alerts(detections)
