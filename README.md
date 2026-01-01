@@ -84,7 +84,8 @@ Computer Networks, Data Structures & Algorithms, Web Technologies
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shaheer-ali-sb)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alishaheer272002@gmail.com)
 
-**Portfolio:** [shaheer-ali-ab.github.io](https://shaheer-ali-ab.github.io)
+**Portfolio:** [shaheer-ali-ab.github.io](
+https://shaheer-ali-sb.github.io/hello-world/)
 
 ---
 
