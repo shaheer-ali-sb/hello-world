@@ -1,115 +1,98 @@
-# 👋 Hi, I'm Shaheer Ali
+# Shaheer Ali
 
-🎓 **MCA Final Year** | 🤖 **AI & Full-Stack Developer** | 🚀 **Building Impactful Solutions**
+MCA Final Year Student | AI Developer Building Conservation Technology
 
-I specialize in **AI-powered applications** and **full-stack development**, currently developing a Wild Animal Detection System using YOLOv8. Passionate about building practical, real-world solutions and continuously improving my engineering skills.
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  
-![Shaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheer-ali-ab&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer-ali-ab&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=shaheer-ali-ab&theme=radical&hide_border=true)
-
-</div>
+Currently developing an AI-powered wildlife detection system to prevent human-animal conflict. Passionate about creating practical software solutions with real-world impact.
 
 ---
 
-## 🛠️ Tech Stack
+## Currently Working On
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Wild Animal Detection & Alert System**
+- Real-time animal detection using YOLOv8 and OpenCV
+- Automated alert system with GSM/Twilio integration  
+- Field deployment on Raspberry Pi for rural areas
+- Custom-trained model with annotated dataset
 
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **AI/ML Stack**
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Skills Applied:** Python, Computer Vision, IoT Deployment, System Design
 
 ---
 
-## 🌟 Featured Projects
+## Technical Skills
 
-### 🐘 **Wild Animal Detection System** | *Ongoing*
-**AI-powered real-time detection system with automated alerts**
+### Languages
+- **Python** – Advanced (AI/ML, Backend Development)
+- **JavaScript** – Intermediate (Frontend Development)
+- **SQL** – Intermediate (Database Design & Optimization)
+- **HTML/CSS** – Intermediate (Responsive Web Development)
 
-> Model: YOLOv8 | Dataset: Custom Annotated | Deployment: Raspberry Pi + Cloud
+### Frameworks & Tools
+- **AI/ML:** YOLOv8, OpenCV, TensorFlow, Scikit-learn
+- **Backend:** Flask, Node.js (Learning), REST APIs
+- **Frontend:** React (Learning), Bootstrap
+- **Databases:** MySQL, MongoDB (Learning)
+- **DevOps:** Git, GitHub Actions, Linux, Docker (Learning)
+- **Cloud:** AWS Basics, Render, Railway
 
-```python
-# Real-time detection pipeline
-detections = model.predict(video_stream)
-send_alerts(detections)
-Features:
+---
 
-✅ Real-time animal detection
+## Academic Projects
 
-✅ Species-specific deterrents
+### MCA Final Year Project
+**Intelligent Wildlife Monitoring System** *(2024-2025)*
+- Developed end-to-end AI solution for animal detection
+- Implemented real-time video processing pipeline
+- Designed database schema for detection logging
+- Created alert notification system
 
-✅ GSM/Twilio alerting system
+**Technologies:** Python, YOLOv8, OpenCV, Flask, MySQL, JavaScript
 
-🔄 Raspberry Pi deployment (in progress)
+### Database Management System
+**College Management System** *(2023)*
+- Designed normalized database schema for student data
+- Implemented complex queries and reporting features
+- Created admin and student portals with role-based access
 
-🌐 Personal Portfolio | Live
-Modern developer portfolio with responsive design
+**Technologies:** MySQL, PHP, HTML, CSS, JavaScript
 
-Tech: HTML5, CSS3, JavaScript, GitHub Pages
+---
 
-Live at: https://shaheer-ali-ab.github.io
+## Education
 
-📚 Learning Roadmap
+**Master of Computer Applications (MCA)**  
+*Pondicherry University* | 2024-2026  
+**CGPA:** 7.75/10
 
+**Relevant Coursework:**  
+Software Engineering, Database Management Systems, Artificial Intelligence,  
+Computer Networks, Data Structures & Algorithms, Web Technologies
 
+---
 
+## Currently Learning
 
+- **Advanced Git workflows** – Branch strategies, rebase, CI/CD pipelines
+- **Full-stack development** – MERN stack implementation
+- **Cloud deployment** – Containerization with Docker, AWS services
+- **System design** – Scalability patterns, performance optimization
 
+---
 
-Currently Mastering:
+## Connect
 
-🔄 Advanced Git workflows (branches, PRs, rebase)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shaheer-ali)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shaheer-ali-sb)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alishaheer272002@gmail.com)
 
-🔄 Full-stack development (React + Node.js + MongoDB)
+**Portfolio:** [shaheer-ali-ab.github.io](https://shaheer-ali-ab.github.io)
 
-🔄 Cloud deployment (AWS/Render/Railway)
+---
 
-📖 System design fundamentals
+## GitHub Activity
 
-🎯 Goals 2025
-<div align="center">
-Category	Goals
-🚀 Career	Software Engineer role with strong problem-solving foundation
-💻 Technical	Build 3+ full-stack projects with CI/CD pipelines
-🌍 Impact	Contribute to 2+ open-source projects
-📈 Growth	Master one backend framework deeply
-</div>
-📬 Connect With Me
-<div align="center">
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheer-ali-ab&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
-</div>
-<div align="center">
-⚡ Fun Fact
-I believe the best way to learn is to build things that matter — whether it's saving wildlife with AI or crafting elegant code.
+---
 
-https://komarev.com/ghpvc/?username=shaheer-ali-ab&color=blueviolet&style=flat-square
-
-Last Updated: December 2025
-
-</div>
+*Last Updated: December 2025*  
+*Open to software engineering opportunities starting mid-2025*
